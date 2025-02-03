@@ -11,3 +11,11 @@ The **DigiCampus** online forum is a platform designed for students and teachers
 - **Responsive Design**: Seamless experience across mobile, tablet, and desktop devices.
 - **Cross-browser Compatibility**: Ensures consistent user experience across major browsers.
 
+**Technologies Used**
+- **Frontend**: React, HTML/CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Authentication**: OAuth 2.0 with Google Authentication
+
+##**Contributing**
+Feel free to fork the repository, submit issues, or create pull requests. Contributions are always welcome to help improve the functionality and user experience of DigiCampus!
